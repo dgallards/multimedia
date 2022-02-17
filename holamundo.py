@@ -3,4 +3,5 @@ def holamundo():
 def holamundo():
 	print("hola a todos")
 def holamundo():
-	print("hola gente2")
+	print("hola gente")
+
